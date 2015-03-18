@@ -6,6 +6,6 @@ This service allows you to easily create CSS Sprites for any desired set of flag
 ##Usage
 Insert a transparent 1x1 pixel image and assign a class flag and flag-<country code>. The country code is in the format ISO 3166-1 alpha-2. For example, the flag of the Czech Republic:
 
-	<img src="blank.gif" class="flag flag-ua" alt="Czech Republic" />
+	<img src="blank.gif" class="flag flag-ua" alt="Ukraine" />
 	
 [Official webpage](http://flag-sprites.com)
